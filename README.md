@@ -1,4 +1,6 @@
 # 🚀 Lobão Silva | Desenvolvedor de Software | Software Developer
+😊✨ Desenvolvedor entusiasta apaixonado por Java | Enthusiastic developer passionate about Java <br>
+💻🚀 Estudante de Java, Android Studio e Eclipse | Java, Android Studio and Eclipse student
 
 ![GitHub followers](https://img.shields.io/github/followers/lobaosilva?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/lobaosilva?style=social)
