@@ -47,7 +47,7 @@
 ## 📈 **Estatísticas do GitHub | GitHub Stats**
 
 <!-- ![Lobão Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobaosilva&show_icons=true&theme=dark) -->
-![Lobão Silva's GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=lobaosilva&layout=compact&langs_count=12&theme=dark)
+![Lobão Silva's GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=lobaosilva&layout=compact&langs_count=4&theme=dark)
 
 ---
 
