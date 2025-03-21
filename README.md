@@ -20,7 +20,7 @@
   - **Projetos Pessoais | Personal Projects:** Desenvolvimento de projetos em Java e Web.
 - **Formação | Education:** 
   - **Curso Superior de Tecnologia em Defesa Cibernética** – Centro Universitário Estácio de Ribeirão Preto (Dezembro/2022)
-  - **Bachelor's Degree in Cyber Defense Technology** – Estácio de Ribeirão Preto University Center (December/2022)
+  - **Higher Education Course in Cyber ​​Defense Technology** – Estácio de Ribeirão Preto University Center (December/2022)
   - **Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** – Centro Universitário Maurício de Nassau/Uninassau (Cursando)
   - **Higher Education Course in Systems Analysis and Development** – ​​Maurício de Nassau University Center/Uninassau (In progress)
 - **Linguagens | Languages:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
